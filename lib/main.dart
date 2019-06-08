@@ -28,4 +28,3 @@ class _MyAppState extends State<MyApp> {
       builder: FlutterBoost.init(), ///init container manager
       home: Container());
 }
-}
